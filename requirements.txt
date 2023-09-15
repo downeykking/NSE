@@ -1,0 +1,6 @@
+colorlog
+tensorboard
+six
+colorama
+pyyaml
+pandas
