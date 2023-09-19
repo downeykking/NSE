@@ -25,6 +25,10 @@ CUDA 11.6
 ## Installation
 
 ```bash
+# create new conda environment
+conda create -n NSE python=3.9
+conda activate NSE
+# install some packages
 pip install -r requirements.txt
 # PyTorch and PyG depend on your own cuda environment. The following instructions are for CUDA11.6.
 pip install torch==1.12.1+cu116 -f https://download.pytorch.org/whl/torch/
