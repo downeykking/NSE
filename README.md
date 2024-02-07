@@ -2,7 +2,7 @@
 
 *Xinzhou Jin, Jintang Li, Yuanzhen Xie, Liang Chen, Beibei Kong, Lei Cheng, Bo Hu, Zang Li, Zibin Zheng*
 
-This is the official PyTorch implementation of our paper that has been accepted to 2023 IEEE International Conference on Data Mining (ICDM 2023). [[Paper]]()
+This is the official PyTorch implementation of our paper that has been accepted to 2023 IEEE International Conference on Data Mining (ICDM 2023). [[Paper]](https://ieeexplore.ieee.org/document/10415768)
 
 <img src="./figure/fig.png" alt="fig" style="zoom:100%;" />
 
